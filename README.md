@@ -1,4 +1,4 @@
-<h1 align="center">Hey... it's Riya in here!✨<br>I'm an ML Dev, not a regular one tho 🤫<br>Blockchain and Quantum ML fascinate me most 😩</h1>
+<h1 align="center">Hey... it's Riya in here! ✨ | Gen AI enthusiast 😎</h1>
 
 ###
 
