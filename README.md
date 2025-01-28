@@ -19,7 +19,7 @@
 </div>
 
 
-## 💻 Tech Stack
+## Tech Stack 💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -45,9 +45,9 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gauri-2903&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gauri-2903&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-2903&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Riyamore02&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Riyamore02&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyamore02&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" />
