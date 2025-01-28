@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 ###
-  <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
+  <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300"/>
   <!-- Tech Stack on the right -->
   <div style="flex: 0 0 60%; display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
