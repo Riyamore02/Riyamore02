@@ -42,13 +42,6 @@
 </div>
 
 
-  <!-- GIF Animation Section -->
-  <div>
-    <img height="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
-  </div>
-</div>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Riyamore02&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Riyamore02&theme=radical&hide_border=true)<br/>
