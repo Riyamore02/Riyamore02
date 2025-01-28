@@ -12,10 +12,6 @@
 <h1 align="center">Hey... it's Riya in here! ✨ | Gen AI enthusiast 😎</h1>
 
 ###
-
-html
-Copy
-Edit
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Animation GIF on the left -->
   <div style="flex: 0 0 35%; text-align: left;">
