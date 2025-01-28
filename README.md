@@ -12,11 +12,7 @@
 <h1 align="center">Hey... it's Riya in here! ✨ | Gen AI enthusiast 😎</h1>
 
 ###
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Animation GIF on the left -->
-  <div style="flex: 0 0 35%; text-align: left;">
-    <img height="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
-  </div>
+  <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400"/>
 
   <!-- Tech Stack on the right -->
   <div style="flex: 0 0 60%; display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
