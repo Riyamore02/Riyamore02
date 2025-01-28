@@ -13,7 +13,8 @@
 
 ###
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="left">
+  <!-- Tech Stack on the left -->
+  <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
     <img width="18" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
@@ -36,7 +37,8 @@
     <img width="18" />
   </div>
   
-  <div>
+  <!-- Animation GIF on the right -->
+  <div style="flex-shrink: 0;">
     <img height="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
   </div>
 </div>
